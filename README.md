@@ -149,55 +149,56 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
-  1. [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
-  1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
-  1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
-  1. [Find Bacon](https://findbacon.com) - Design and Dev jobs
-  1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
-  1. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
-  1. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
-  1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
-  1. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
-  1. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
-  1. [HackerX](https://www.hackerx.org/jobs/)
-  1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
-  1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
-  1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-  1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
-  1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
-  1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
-  1. [JustRemote](https://justremote.co)
-  1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
-  1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
-  1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
-  1. [NODESK](https://nodesk.co/remote-jobs/)
-  1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
-  1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
-  1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
-  1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
-  1. [Remotees](https://remotees.com/)
-  1. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
-  1. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
-  1. [Remotive Jobs](https://remotive.io/)
-  1. [Remote People](https://remotepeople.io/)
-  1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-  1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-  1. [Skip the Drive](https://www.skipthedrive.com/)
-  1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
-  2. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
-  3. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-  4. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-  5. [Virtual Vocations](https://www.virtualvocations.com/)
-  6. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-  7. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-  8. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
-  9. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-  10. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  11. [We Work Remotely](https://weworkremotely.com/)
-  12. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  13. [Working Nomads](https://www.workingnomads.co/jobs)
+  2. [DesignRemotely](https://designremotely.co/) The Best Remote Design Jobs from Top Remote Companies
+  3. [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
+  4. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
+  5. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+  6. [Find Bacon](https://findbacon.com) - Design and Dev jobs
+  7. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
+  8. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
+  9. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
+  10. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
+  11. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
+  12. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
+  13. [HackerX](https://www.hackerx.org/jobs/)
+  14. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
+  15. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
+  16. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
+  17. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
+  18. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
+  19. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
+  20. [JustRemote](https://justremote.co)
+  21. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
+  22. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
+  23. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
+  24. [NODESK](https://nodesk.co/remote-jobs/)
+  25. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  26. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
+  27. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+  28. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+  29. [Remotees](https://remotees.com/)
+  30. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
+  31. [Remote.co Jobs](https://remote.co/remote-jobs/)
+  32. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+  33. [Remotive Jobs](https://remotive.io/)
+  34. [Remote People](https://remotepeople.io/)
+  35. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+  36. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+  37. [Skip the Drive](https://www.skipthedrive.com/)
+  38. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+  39. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+  40. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
+  41. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  42. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+  43. [Virtual Vocations](https://www.virtualvocations.com/)
+  44. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+  45. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
+  46. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
+  47. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+  48. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+  49. [We Work Remotely](https://weworkremotely.com/)
+  50. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  51. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
